@@ -32,3 +32,6 @@ First Repo
  up and down arrows will copy what you have already typed previously
  
  
+echo >> file: to redirect output to file
+cat to concatenate or display file to stdout
+echo to print to screen
