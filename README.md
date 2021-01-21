@@ -15,6 +15,10 @@ First Repo
  
  `git pull` will synchronize the cloud and your server
  
+ `git checkout` recover files from last commit
+ 
+ `rm` remove
+ 
  ## Basic Bash command
  
  `pwd` print current working directory
@@ -29,9 +33,13 @@ First Repo
  
  `touch` create a dummy file placeholder
  
- up and down arrows will copy what you have already typed previously
+ up and down arrows will copy what you have already typed previously 
  
+ `echo >> file` to redirect output to file
+
+ `cat` to concatenate or display file to stdout
+
+ `echo` to print to screen
  
-echo >> file: to redirect output to file
-cat to concatenate or display file to stdout
-echo to print to screen
+ ctrl c close command
+
