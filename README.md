@@ -26,3 +26,7 @@ First Repo
  `mkdir` create directory
  
  `touch` create a dummy file placeholder
+ 
+ up and down arrows will copy what you have already typed previously
+ 
+ `git pull` will synchronize the cloud and your server
