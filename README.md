@@ -43,3 +43,4 @@ First Repo
  
  ctrl c close command
 
+history shows all the bash commands that you have done
