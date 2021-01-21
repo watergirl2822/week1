@@ -13,6 +13,8 @@ First Repo
   
  `git status` check the status of the repository
  
+ `git pull` will synchronize the cloud and your server
+ 
  ## Basic Bash command
  
  `pwd` print current working directory
@@ -29,4 +31,4 @@ First Repo
  
  up and down arrows will copy what you have already typed previously
  
- `git pull` will synchronize the cloud and your server
+ 
